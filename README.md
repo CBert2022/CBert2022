@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there - Ich bin Caro, Full-Stack-Developer 
+
+## 🚀 Meine Open-Source-Beiträge (Open Source Contributions)
+
+Seit Januar 2025 are ich als Frontend Developer in Vollzeit beim demosplan.
+aktiv am offiziellen Open-Source-Projekt mitgewirkt. Da der Code öffentlich ist, kannst du meine genauen Beiträge hier einsehen:
+https://github.com/demos-europe/demosplan-core/commits?author=riechedemos
+
+
 
 <!--
 **CBert2022/CBert2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
