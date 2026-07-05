@@ -1,4 +1,4 @@
-# Hi there, ich bin Caro 👋
+# Hi there, ich bin Caro 
 
 **Frontend-focused Full-Stack Developer & Kommunikations-Schnittstelle**
 
