@@ -1,6 +1,7 @@
 # Hi there, ich bin Caro 👋
 
-**Frontend-focused Full-Stack Developer & Brückenbauerin** 🚀
+**Frontend-focused Full-Stack Developer & Brückenbauerin**
+
 Ich entwickle performante Webanwendungen mit einem starken Fokus auf modulare Komponentensysteme im Enterprise-Umfeld. Durch mein MERN- & PHP-Fundament sowie meine 6-jährige Erfahrung als Product Owner kombiniere ich saubere Software-Architektur über den gesamten Stack hinweg mit einem strategischen Blick für das Gesamtprodukt.
 
 ---
