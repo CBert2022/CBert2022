@@ -1,11 +1,14 @@
-## Hi there - Ich bin Caro, Full-Stack-Developer 
+# Hi there – ich bin Caro, Frontend Developer 👋
 
-## 🚀 Meine Open-Source-Beiträge (Open Source Contributions)
+## 🚀 Open-Source-Beiträge
 
-Seit Januar 2025 are ich als Frontend Developer in Vollzeit beim demosplan.
-aktiv am offiziellen Open-Source-Projekt mitgewirkt. Da der Code öffentlich ist, kannst du meine genauen Beiträge hier einsehen:
-https://github.com/demos-europe/demosplan-core/commits?author=riechedemos
+Seit Januar 2025 arbeite ich als Frontend Developer bei demosplan. Ein Teil meiner Arbeit ist Open Source und öffentlich auf GitHub einsehbar.
 
+demosplan Core (Hauptanwendung)
+https://github.com/demos-europe/demosplan-core/pulls?q=author%3Ariechedemos
+
+demosplan UI Library
+https://github.com/demos-europe/demosplan-ui/pulls?q=author%3Ariechedemos
 
 
 <!--
