@@ -1,29 +1,29 @@
 # Hi there, ich bin Caro 
 
-**Frontend-focused Full-Stack Developer & Kommunikations-Schnittstelle**
+**Frontend-focused Full-Stack Developer mit Product Owner Background**
 
-Ich entwickle performante Webanwendungen mit einem starken Fokus auf modulare Komponentensysteme im Enterprise-Umfeld. Durch mein MERN- & PHP-Fundament sowie meine 6-jährige Erfahrung als Product Owner kombiniere ich saubere Software-Architektur über den gesamten Stack hinweg mit einem strategischen Blick für das Gesamtprodukt.
+Ich entwickle wartbare & barrierefreie Webanwendungen mit einem starken Fokus auf modulare Komponentensysteme im Enterprise-Umfeld. Durch mein MERN- & PHP-Fundament sowie meine 6-jährige Erfahrung als Product Owner kombiniere ich saubere Software-Architektur über den gesamten Stack hinweg mit einem strategischen Blick für das Gesamtprodukt.
 
 ---
 
 ### Aktuelle Enterprise- & Open-Source-Arbeit
 Seit Januar 2025 arbeite ich bei **demosplan** an hybriden Frontend-Systemen (Vue-Islands-Architektur integriert in ein Symfony/PHP-Backend). Ein Teil meiner täglichen Arbeit an produktivem Enterprise-Code ist öffentlich einsehbar:
 
-*   **[demosplan Core (Hauptanwendung)](https://github.com/demos-europe/demosplan-core/pulls?q=author%3Ariechedemos)** – JSON:API-Anbindungen, Datenfluss zwischen Backend & Frontend sowie komplexe Component Overrides.
-*   **[demosplan UI Library](https://github.com/demos-europe/demosplan-ui/pulls?q=author%3Ariechedemos)** – Skalierbare, wiederverwendbare Komponenten auf Basis des **IBM Carbon Design Systems**.
+*   **[demosplan Core (Hauptanwendung)](https://github.com/demos-europe/demosplan-core/pulls?q=author%3Ariechedemos)** – Eigenständige Umsetzung von Frontend Features in einer gewachsenen Enterprise-Codebase: von der UI über die Anbindung an Backend APIs bis zur Integration in die Symphony/ Twig-Architektur
+*   **[demosplan UI Library](https://github.com/demos-europe/demosplan-ui/pulls?q=author%3Ariechedemos)** – Entwicklung und Weiterentwicklung wiederverwendbarer Vue-Komponenten, Design Tokens für das hauseigene Design-System.
 
 ### Tech Stack & Stack-Übersicht
 
 **Frontend (Schwerpunkt):**
 *   **Sprachen:** JavaScript (ES6+), TypeScript-Grundlagen, HTML5, CSS3 / SCSS
 *   **Frameworks & Libraries:** Vue.js (Vue 2 & Vue 3), Twig (Symfony-Integration), React-Grundlagen
-*   **Styling & UI:** Tailwind CSS, IBM Carbon Design System, Bootstrap
+*   **Styling & UI:** Tailwind, IBM Carbon Design System, Bootstrap
 *   **Testing & Qualität:** Jest Unit Tests, SonarCloud, Code Reviews
 
 **Backend, Datenbanken & Schnittstellen (Full-Stack-Verständnis):**
 *   **Datenfluss & APIs:** Sicherer Umgang mit REST-APIs und JSON:API zur nahtlosen Anbindung von Frontends an Backend-Strukturen.
 *   **Backend-Integration:** Praktische Erfahrung mit der Integration von Frontend-Komponenten in bestehende Server-Umgebungen (wie PHP/Symfony via Twig-Bundles).
-*   **Grundkenntnisse & Tooling:** Fundiertes theoretisches Wissen und praxisnahe Bootcamp-Projekte mit Node.js (Express.js), MySQL und MongoDB.
+*   **Grundkenntnisse & Tooling:** Fundiertes theoretisches Wissen und praxisnahe Bootcamp-Projekte mit PHP, Node.js (Express.js), MySQL und MongoDB.
 *   **CMS & E-Commerce:** Erfahrung mit TYPO3 und Shopify (Liquid).
 
 ### Warum Full-Stack + PO-Mindset?
